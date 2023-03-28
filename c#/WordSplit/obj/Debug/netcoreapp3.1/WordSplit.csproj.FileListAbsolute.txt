@@ -1,0 +1,12 @@
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\WordSplit\bin\Debug\netcoreapp3.1\WordSplit.exe
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\WordSplit\bin\Debug\netcoreapp3.1\WordSplit.deps.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\WordSplit\bin\Debug\netcoreapp3.1\WordSplit.runtimeconfig.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\WordSplit\bin\Debug\netcoreapp3.1\WordSplit.runtimeconfig.dev.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\WordSplit\bin\Debug\netcoreapp3.1\WordSplit.dll
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\WordSplit\bin\Debug\netcoreapp3.1\WordSplit.pdb
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\WordSplit\obj\Debug\netcoreapp3.1\WordSplit.AssemblyInfoInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\WordSplit\obj\Debug\netcoreapp3.1\WordSplit.AssemblyInfo.cs
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\WordSplit\obj\Debug\netcoreapp3.1\WordSplit.csproj.CoreCompileInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\WordSplit\obj\Debug\netcoreapp3.1\WordSplit.dll
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\WordSplit\obj\Debug\netcoreapp3.1\WordSplit.pdb
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\WordSplit\obj\Debug\netcoreapp3.1\WordSplit.genruntimeconfig.cache

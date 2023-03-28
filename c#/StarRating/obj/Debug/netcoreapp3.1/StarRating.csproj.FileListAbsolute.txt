@@ -1,0 +1,13 @@
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\StarRating\bin\Debug\netcoreapp3.1\StarRating.exe
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\StarRating\bin\Debug\netcoreapp3.1\StarRating.deps.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\StarRating\bin\Debug\netcoreapp3.1\StarRating.runtimeconfig.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\StarRating\bin\Debug\netcoreapp3.1\StarRating.runtimeconfig.dev.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\StarRating\bin\Debug\netcoreapp3.1\StarRating.dll
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\StarRating\bin\Debug\netcoreapp3.1\StarRating.pdb
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\StarRating\obj\Debug\netcoreapp3.1\StarRating.AssemblyInfoInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\StarRating\obj\Debug\netcoreapp3.1\StarRating.AssemblyInfo.cs
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\StarRating\obj\Debug\netcoreapp3.1\StarRating.csproj.CoreCompileInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\StarRating\obj\Debug\netcoreapp3.1\StarRating.dll
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\StarRating\obj\Debug\netcoreapp3.1\StarRating.pdb
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\StarRating\obj\Debug\netcoreapp3.1\StarRating.genruntimeconfig.cache
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\StarRating\obj\Debug\netcoreapp3.1\StarRating.csproj.AssemblyReference.cache

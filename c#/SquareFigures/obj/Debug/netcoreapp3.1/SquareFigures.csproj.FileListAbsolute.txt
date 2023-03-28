@@ -1,0 +1,13 @@
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\SquareFigures\bin\Debug\netcoreapp3.1\SquareFigures.exe
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\SquareFigures\bin\Debug\netcoreapp3.1\SquareFigures.deps.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\SquareFigures\bin\Debug\netcoreapp3.1\SquareFigures.runtimeconfig.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\SquareFigures\bin\Debug\netcoreapp3.1\SquareFigures.runtimeconfig.dev.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\SquareFigures\bin\Debug\netcoreapp3.1\SquareFigures.dll
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\SquareFigures\bin\Debug\netcoreapp3.1\SquareFigures.pdb
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\SquareFigures\obj\Debug\netcoreapp3.1\SquareFigures.csproj.AssemblyReference.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\SquareFigures\obj\Debug\netcoreapp3.1\SquareFigures.AssemblyInfoInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\SquareFigures\obj\Debug\netcoreapp3.1\SquareFigures.AssemblyInfo.cs
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\SquareFigures\obj\Debug\netcoreapp3.1\SquareFigures.csproj.CoreCompileInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\SquareFigures\obj\Debug\netcoreapp3.1\SquareFigures.dll
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\SquareFigures\obj\Debug\netcoreapp3.1\SquareFigures.pdb
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\SquareFigures\obj\Debug\netcoreapp3.1\SquareFigures.genruntimeconfig.cache

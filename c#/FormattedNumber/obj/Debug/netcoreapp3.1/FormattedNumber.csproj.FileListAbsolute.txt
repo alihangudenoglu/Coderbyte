@@ -1,0 +1,13 @@
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\FormattedNumber\bin\Debug\netcoreapp3.1\FormattedNumber.exe
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\FormattedNumber\bin\Debug\netcoreapp3.1\FormattedNumber.deps.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\FormattedNumber\bin\Debug\netcoreapp3.1\FormattedNumber.runtimeconfig.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\FormattedNumber\bin\Debug\netcoreapp3.1\FormattedNumber.runtimeconfig.dev.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\FormattedNumber\bin\Debug\netcoreapp3.1\FormattedNumber.dll
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\FormattedNumber\bin\Debug\netcoreapp3.1\FormattedNumber.pdb
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\FormattedNumber\obj\Debug\netcoreapp3.1\FormattedNumber.AssemblyInfoInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\FormattedNumber\obj\Debug\netcoreapp3.1\FormattedNumber.AssemblyInfo.cs
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\FormattedNumber\obj\Debug\netcoreapp3.1\FormattedNumber.csproj.CoreCompileInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\FormattedNumber\obj\Debug\netcoreapp3.1\FormattedNumber.dll
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\FormattedNumber\obj\Debug\netcoreapp3.1\FormattedNumber.pdb
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\FormattedNumber\obj\Debug\netcoreapp3.1\FormattedNumber.genruntimeconfig.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\FormattedNumber\obj\Debug\netcoreapp3.1\FormattedNumber.csproj.AssemblyReference.cache

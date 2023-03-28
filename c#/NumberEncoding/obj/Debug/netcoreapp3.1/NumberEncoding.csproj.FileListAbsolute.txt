@@ -1,0 +1,12 @@
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberEncoding\bin\Debug\netcoreapp3.1\NumberEncoding.exe
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberEncoding\bin\Debug\netcoreapp3.1\NumberEncoding.deps.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberEncoding\bin\Debug\netcoreapp3.1\NumberEncoding.runtimeconfig.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberEncoding\bin\Debug\netcoreapp3.1\NumberEncoding.runtimeconfig.dev.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberEncoding\bin\Debug\netcoreapp3.1\NumberEncoding.dll
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberEncoding\bin\Debug\netcoreapp3.1\NumberEncoding.pdb
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberEncoding\obj\Debug\netcoreapp3.1\NumberEncoding.AssemblyInfoInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberEncoding\obj\Debug\netcoreapp3.1\NumberEncoding.AssemblyInfo.cs
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberEncoding\obj\Debug\netcoreapp3.1\NumberEncoding.csproj.CoreCompileInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberEncoding\obj\Debug\netcoreapp3.1\NumberEncoding.dll
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberEncoding\obj\Debug\netcoreapp3.1\NumberEncoding.pdb
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberEncoding\obj\Debug\netcoreapp3.1\NumberEncoding.genruntimeconfig.cache

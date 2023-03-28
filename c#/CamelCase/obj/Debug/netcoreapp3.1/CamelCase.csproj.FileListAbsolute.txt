@@ -1,0 +1,13 @@
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\CamelCase\bin\Debug\netcoreapp3.1\CamelCase.exe
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\CamelCase\bin\Debug\netcoreapp3.1\CamelCase.deps.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\CamelCase\bin\Debug\netcoreapp3.1\CamelCase.runtimeconfig.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\CamelCase\bin\Debug\netcoreapp3.1\CamelCase.runtimeconfig.dev.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\CamelCase\bin\Debug\netcoreapp3.1\CamelCase.dll
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\CamelCase\bin\Debug\netcoreapp3.1\CamelCase.pdb
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.AssemblyInfoInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.AssemblyInfo.cs
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.csproj.CoreCompileInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.dll
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.pdb
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.genruntimeconfig.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\Wildcards\bin\Debug\netcoreapp3.1\Wildcards.exe
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\Wildcards\bin\Debug\netcoreapp3.1\Wildcards.deps.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\Wildcards\bin\Debug\netcoreapp3.1\Wildcards.runtimeconfig.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\Wildcards\bin\Debug\netcoreapp3.1\Wildcards.runtimeconfig.dev.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\Wildcards\bin\Debug\netcoreapp3.1\Wildcards.dll
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\Wildcards\bin\Debug\netcoreapp3.1\Wildcards.pdb
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\Wildcards\obj\Debug\netcoreapp3.1\Wildcards.csproj.AssemblyReference.cache
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\Wildcards\obj\Debug\netcoreapp3.1\Wildcards.AssemblyInfoInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\Wildcards\obj\Debug\netcoreapp3.1\Wildcards.AssemblyInfo.cs
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\Wildcards\obj\Debug\netcoreapp3.1\Wildcards.csproj.CoreCompileInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\Wildcards\obj\Debug\netcoreapp3.1\Wildcards.dll
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\Wildcards\obj\Debug\netcoreapp3.1\Wildcards.pdb
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\Wildcards\obj\Debug\netcoreapp3.1\Wildcards.genruntimeconfig.cache

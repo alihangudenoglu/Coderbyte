@@ -1,0 +1,13 @@
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\BitwiseTwo\bin\Debug\netcoreapp3.1\BitwiseTwo.exe
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\BitwiseTwo\bin\Debug\netcoreapp3.1\BitwiseTwo.deps.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\BitwiseTwo\bin\Debug\netcoreapp3.1\BitwiseTwo.runtimeconfig.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\BitwiseTwo\bin\Debug\netcoreapp3.1\BitwiseTwo.runtimeconfig.dev.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\BitwiseTwo\bin\Debug\netcoreapp3.1\BitwiseTwo.dll
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\BitwiseTwo\bin\Debug\netcoreapp3.1\BitwiseTwo.pdb
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\BitwiseTwo\obj\Debug\netcoreapp3.1\BitwiseTwo.csproj.AssemblyReference.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\BitwiseTwo\obj\Debug\netcoreapp3.1\BitwiseTwo.AssemblyInfoInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\BitwiseTwo\obj\Debug\netcoreapp3.1\BitwiseTwo.AssemblyInfo.cs
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\BitwiseTwo\obj\Debug\netcoreapp3.1\BitwiseTwo.csproj.CoreCompileInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\BitwiseTwo\obj\Debug\netcoreapp3.1\BitwiseTwo.dll
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\BitwiseTwo\obj\Debug\netcoreapp3.1\BitwiseTwo.pdb
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\BitwiseTwo\obj\Debug\netcoreapp3.1\BitwiseTwo.genruntimeconfig.cache

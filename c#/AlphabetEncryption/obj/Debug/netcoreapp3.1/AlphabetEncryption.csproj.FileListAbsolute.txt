@@ -1,0 +1,13 @@
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetEncryption\bin\Debug\netcoreapp3.1\AlphabetEncryption.exe
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetEncryption\bin\Debug\netcoreapp3.1\AlphabetEncryption.deps.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetEncryption\bin\Debug\netcoreapp3.1\AlphabetEncryption.runtimeconfig.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetEncryption\bin\Debug\netcoreapp3.1\AlphabetEncryption.runtimeconfig.dev.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetEncryption\bin\Debug\netcoreapp3.1\AlphabetEncryption.dll
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetEncryption\bin\Debug\netcoreapp3.1\AlphabetEncryption.pdb
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetEncryption\obj\Debug\netcoreapp3.1\AlphabetEncryption.csproj.AssemblyReference.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetEncryption\obj\Debug\netcoreapp3.1\AlphabetEncryption.AssemblyInfoInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetEncryption\obj\Debug\netcoreapp3.1\AlphabetEncryption.AssemblyInfo.cs
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetEncryption\obj\Debug\netcoreapp3.1\AlphabetEncryption.csproj.CoreCompileInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetEncryption\obj\Debug\netcoreapp3.1\AlphabetEncryption.dll
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetEncryption\obj\Debug\netcoreapp3.1\AlphabetEncryption.pdb
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetEncryption\obj\Debug\netcoreapp3.1\AlphabetEncryption.genruntimeconfig.cache

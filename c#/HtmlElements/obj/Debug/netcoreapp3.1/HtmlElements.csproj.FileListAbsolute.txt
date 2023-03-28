@@ -1,0 +1,13 @@
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\HtmlElements\bin\Debug\netcoreapp3.1\HtmlElements.exe
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\HtmlElements\bin\Debug\netcoreapp3.1\HtmlElements.deps.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\HtmlElements\bin\Debug\netcoreapp3.1\HtmlElements.runtimeconfig.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\HtmlElements\bin\Debug\netcoreapp3.1\HtmlElements.runtimeconfig.dev.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\HtmlElements\bin\Debug\netcoreapp3.1\HtmlElements.dll
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\HtmlElements\bin\Debug\netcoreapp3.1\HtmlElements.pdb
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\HtmlElements\obj\Debug\netcoreapp3.1\HtmlElements.csproj.AssemblyReference.cache
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\HtmlElements\obj\Debug\netcoreapp3.1\HtmlElements.AssemblyInfoInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\HtmlElements\obj\Debug\netcoreapp3.1\HtmlElements.AssemblyInfo.cs
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\HtmlElements\obj\Debug\netcoreapp3.1\HtmlElements.csproj.CoreCompileInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\HtmlElements\obj\Debug\netcoreapp3.1\HtmlElements.dll
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\HtmlElements\obj\Debug\netcoreapp3.1\HtmlElements.pdb
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\HtmlElements\obj\Debug\netcoreapp3.1\HtmlElements.genruntimeconfig.cache

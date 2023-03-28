@@ -1,0 +1,13 @@
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\RomanNumeralReduction\bin\Debug\netcoreapp3.1\RomanNumeralReduction.exe
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\RomanNumeralReduction\bin\Debug\netcoreapp3.1\RomanNumeralReduction.deps.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\RomanNumeralReduction\bin\Debug\netcoreapp3.1\RomanNumeralReduction.runtimeconfig.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\RomanNumeralReduction\bin\Debug\netcoreapp3.1\RomanNumeralReduction.runtimeconfig.dev.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\RomanNumeralReduction\bin\Debug\netcoreapp3.1\RomanNumeralReduction.dll
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\RomanNumeralReduction\bin\Debug\netcoreapp3.1\RomanNumeralReduction.pdb
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\RomanNumeralReduction\obj\Debug\netcoreapp3.1\RomanNumeralReduction.AssemblyInfoInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\RomanNumeralReduction\obj\Debug\netcoreapp3.1\RomanNumeralReduction.AssemblyInfo.cs
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\RomanNumeralReduction\obj\Debug\netcoreapp3.1\RomanNumeralReduction.csproj.CoreCompileInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\RomanNumeralReduction\obj\Debug\netcoreapp3.1\RomanNumeralReduction.dll
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\RomanNumeralReduction\obj\Debug\netcoreapp3.1\RomanNumeralReduction.pdb
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\RomanNumeralReduction\obj\Debug\netcoreapp3.1\RomanNumeralReduction.genruntimeconfig.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\RomanNumeralReduction\obj\Debug\netcoreapp3.1\RomanNumeralReduction.csproj.AssemblyReference.cache

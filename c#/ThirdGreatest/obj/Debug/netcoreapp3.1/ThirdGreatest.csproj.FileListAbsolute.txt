@@ -1,0 +1,13 @@
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThirdGreatest\bin\Debug\netcoreapp3.1\ThirdGreatest.exe
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThirdGreatest\bin\Debug\netcoreapp3.1\ThirdGreatest.deps.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThirdGreatest\bin\Debug\netcoreapp3.1\ThirdGreatest.runtimeconfig.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThirdGreatest\bin\Debug\netcoreapp3.1\ThirdGreatest.runtimeconfig.dev.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThirdGreatest\bin\Debug\netcoreapp3.1\ThirdGreatest.dll
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThirdGreatest\bin\Debug\netcoreapp3.1\ThirdGreatest.pdb
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThirdGreatest\obj\Debug\netcoreapp3.1\ThirdGreatest.csproj.AssemblyReference.cache
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThirdGreatest\obj\Debug\netcoreapp3.1\ThirdGreatest.AssemblyInfoInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThirdGreatest\obj\Debug\netcoreapp3.1\ThirdGreatest.AssemblyInfo.cs
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThirdGreatest\obj\Debug\netcoreapp3.1\ThirdGreatest.csproj.CoreCompileInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThirdGreatest\obj\Debug\netcoreapp3.1\ThirdGreatest.dll
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThirdGreatest\obj\Debug\netcoreapp3.1\ThirdGreatest.pdb
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThirdGreatest\obj\Debug\netcoreapp3.1\ThirdGreatest.genruntimeconfig.cache

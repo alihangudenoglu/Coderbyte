@@ -1,0 +1,13 @@
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThreeNumbers\bin\Debug\netcoreapp3.1\ThreeNumbers.exe
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThreeNumbers\bin\Debug\netcoreapp3.1\ThreeNumbers.deps.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThreeNumbers\bin\Debug\netcoreapp3.1\ThreeNumbers.runtimeconfig.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThreeNumbers\bin\Debug\netcoreapp3.1\ThreeNumbers.runtimeconfig.dev.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThreeNumbers\bin\Debug\netcoreapp3.1\ThreeNumbers.dll
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThreeNumbers\bin\Debug\netcoreapp3.1\ThreeNumbers.pdb
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThreeNumbers\obj\Debug\netcoreapp3.1\ThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThreeNumbers\obj\Debug\netcoreapp3.1\ThreeNumbers.AssemblyInfo.cs
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThreeNumbers\obj\Debug\netcoreapp3.1\ThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThreeNumbers\obj\Debug\netcoreapp3.1\ThreeNumbers.dll
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThreeNumbers\obj\Debug\netcoreapp3.1\ThreeNumbers.pdb
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThreeNumbers\obj\Debug\netcoreapp3.1\ThreeNumbers.genruntimeconfig.cache
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\ThreeNumbers\obj\Debug\netcoreapp3.1\ThreeNumbers.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberAddition\bin\Debug\netcoreapp3.1\NumberAddition.exe
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberAddition\bin\Debug\netcoreapp3.1\NumberAddition.deps.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberAddition\bin\Debug\netcoreapp3.1\NumberAddition.runtimeconfig.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberAddition\bin\Debug\netcoreapp3.1\NumberAddition.runtimeconfig.dev.json
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberAddition\bin\Debug\netcoreapp3.1\NumberAddition.dll
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberAddition\bin\Debug\netcoreapp3.1\NumberAddition.pdb
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberAddition\obj\Debug\netcoreapp3.1\NumberAddition.AssemblyInfoInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberAddition\obj\Debug\netcoreapp3.1\NumberAddition.AssemblyInfo.cs
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberAddition\obj\Debug\netcoreapp3.1\NumberAddition.csproj.CoreCompileInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberAddition\obj\Debug\netcoreapp3.1\NumberAddition.dll
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberAddition\obj\Debug\netcoreapp3.1\NumberAddition.pdb
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberAddition\obj\Debug\netcoreapp3.1\NumberAddition.genruntimeconfig.cache
+C:\Users\Alihan\Desktop\kodlamalar\Coderbyte\c#\NumberAddition\obj\Debug\netcoreapp3.1\NumberAddition.csproj.AssemblyReference.cache

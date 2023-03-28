@@ -1,0 +1,13 @@
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\TetrisMove\bin\Debug\netcoreapp3.1\TetrisMove.exe
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\TetrisMove\bin\Debug\netcoreapp3.1\TetrisMove.deps.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\TetrisMove\bin\Debug\netcoreapp3.1\TetrisMove.runtimeconfig.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\TetrisMove\bin\Debug\netcoreapp3.1\TetrisMove.runtimeconfig.dev.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\TetrisMove\bin\Debug\netcoreapp3.1\TetrisMove.dll
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\TetrisMove\bin\Debug\netcoreapp3.1\TetrisMove.pdb
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\TetrisMove\obj\Debug\netcoreapp3.1\TetrisMove.AssemblyInfoInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\TetrisMove\obj\Debug\netcoreapp3.1\TetrisMove.AssemblyInfo.cs
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\TetrisMove\obj\Debug\netcoreapp3.1\TetrisMove.csproj.CoreCompileInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\TetrisMove\obj\Debug\netcoreapp3.1\TetrisMove.dll
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\TetrisMove\obj\Debug\netcoreapp3.1\TetrisMove.pdb
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\TetrisMove\obj\Debug\netcoreapp3.1\TetrisMove.genruntimeconfig.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\TetrisMove\obj\Debug\netcoreapp3.1\TetrisMove.csproj.AssemblyReference.cache

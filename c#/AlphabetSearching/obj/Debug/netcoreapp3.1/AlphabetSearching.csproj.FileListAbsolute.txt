@@ -1,0 +1,13 @@
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetSearching\bin\Debug\netcoreapp3.1\AlphabetSearching.exe
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetSearching\bin\Debug\netcoreapp3.1\AlphabetSearching.deps.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetSearching\bin\Debug\netcoreapp3.1\AlphabetSearching.runtimeconfig.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetSearching\bin\Debug\netcoreapp3.1\AlphabetSearching.runtimeconfig.dev.json
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetSearching\bin\Debug\netcoreapp3.1\AlphabetSearching.dll
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetSearching\bin\Debug\netcoreapp3.1\AlphabetSearching.pdb
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetSearching\obj\Debug\netcoreapp3.1\AlphabetSearching.AssemblyInfoInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetSearching\obj\Debug\netcoreapp3.1\AlphabetSearching.AssemblyInfo.cs
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetSearching\obj\Debug\netcoreapp3.1\AlphabetSearching.csproj.CoreCompileInputs.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetSearching\obj\Debug\netcoreapp3.1\AlphabetSearching.dll
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetSearching\obj\Debug\netcoreapp3.1\AlphabetSearching.pdb
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetSearching\obj\Debug\netcoreapp3.1\AlphabetSearching.genruntimeconfig.cache
+C:\Users\Alihan\Desktop\kodlamalar\alıştırmalar\BootcampAlistirmalar\AlphabetSearching\obj\Debug\netcoreapp3.1\AlphabetSearching.csproj.AssemblyReference.cache
